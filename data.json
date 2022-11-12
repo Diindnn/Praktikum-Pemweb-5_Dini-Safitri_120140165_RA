@@ -1,0 +1,79 @@
+[
+      {
+          "nim": "120140165",
+          "nama": "Dini Safitri",
+          "prodi": "Teknik Informatika"
+      },
+      {
+          "nim": "120140177",
+          "nama": "Nabilla Putri Maharani",
+          "prodi": "Teknik Informatika"
+      },
+      {
+          "nim": "120140006",
+          "nama": "Caca Merica",
+          "prodi": "Teknik Informatika"
+      },
+      {
+      "nim": "120140099",
+      "nama": "Reza Rahardian",
+      "prodi": "Teknik Informatika"
+      },
+      {
+        "nim": "120170022",
+        "nama": "Rizki Dwi",
+        "prodi": "Teknik Sipil"
+    },
+      {
+          "nim": "120170088",
+          "nama": "Bayu Nindioko",
+          "prodi": "Teknik Sipil"
+      },
+      {
+          "nim": "120170201",
+          "nama": "Jesika Jane",
+          "prodi": "Teknik Sipil"
+      },
+      {
+          "nim": "120170152",
+          "nama": "Rafathar",
+          "prodi": "Teknik Sipil"
+      },
+      {
+        "nim": "120160113",
+        "nama": "Budi Doremi",
+        "prodi": "Teknik Geofisika"
+    },
+    {
+        "nim": "120160199",
+        "nama": "Hasan Abdullah",
+        "prodi": "Teknik Geofisika"
+    },
+    {
+        "nim": "120160140",
+        "nama": "Syafira Naza",
+        "prodi": "Teknik Geofisika"
+    },
+    
+    {
+        "nim": "120160201",
+        "nama": "Dewi Galuh",
+        "prodi": "Teknik Geofisika"
+    },
+      {
+          "nim": "120130153",
+          "nama": "Arial Fauzi",
+          "prodi": "Perencanaan Wilayah dan Kota"
+      },
+      {
+        "nim": "120130102",
+        "nama": "Elisa Nur",
+        "prodi": "Perencanaan Wilayah dan Kota"
+      },
+      {
+        "nim": "120130005",
+        "nama": "Dea Alvira",
+        "prodi": "Perencanaan Wilayah dan Kota"
+    }
+    
+]
